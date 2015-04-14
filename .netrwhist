@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/uber-logs/api'
+let g:netrw_dirhist_2='/home/uber/login/login/views'
+let g:netrw_dirhist_3='/home/uber/login/login/tests/views'
+let g:netrw_dirhist_4='/home/uber/.vim'
